@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "id": "morebuckets",
+  "version": "1.0.0",
+
+  "name": "More Buckets",
+  "description": "Enjoy it!",
+  "authors": [
+    "EmeraldsEgg"
+  ],
+  "contact": {
+    "homepage": "https://space.bilibili.com/282163482",
+    "sources": "https://space.bilibili.com/282163482"
+  },
+
+  "license": "BY-NC",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "cn.eggpixel.Main"
+    ]
+  },
+
+  "depends": {
+    "fabricloader": ">=0.7.4",
+    "fabric": "*",
+    "minecraft": "1.16.x"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}
