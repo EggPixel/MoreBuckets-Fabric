@@ -1,4 +1,4 @@
-package cn.eggpixel;
+package cn.eggpixel.item;
 
 import cn.eggpixel.Inventory.morebuckets;
 import net.minecraft.item.Item;
